@@ -1,1 +1,2 @@
-# personal_website_with_css
+# personal_website
+Personal Website, made for CSE 134B
